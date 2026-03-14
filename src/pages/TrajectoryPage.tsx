@@ -34,7 +34,7 @@ function ConfidenceGauge({ value }: { value: number }) {
         <text x="90" y="85" textAnchor="middle" fill="hsl(222 80% 60%)" fontSize="36" fontFamily="Geist Mono, monospace" fontWeight="bold">
           {percent}%
         </text>
-        <text x="90" y="108" textAnchor="middle" fill="hsl(215 15% 50%)" fontSize="10" fontFamily="Geist Mono, monospace" textTransform="uppercase" letterSpacing="2">
+        <text x="90" y="108" textAnchor="middle" fill="hsl(215 15% 50%)" fontSize="10" fontFamily="Geist Mono, monospace" letterSpacing="2" style={{ textTransform: "uppercase" }}>
           CONFIDENCE
         </text>
       </svg>
