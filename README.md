@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Project Description
+## 📌 Project Description:---->
 
 SMARTTIE is an AI-powered medical intelligence system designed to transform scattered online patient discussions into structured, meaningful treatment insights.
 
